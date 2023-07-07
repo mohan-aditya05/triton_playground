@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": ".triton_env/bin/python",
+    "python.analysis.typeCheckingMode": "off",
+    "python.linting.pylintPath": ".triton_env/bin/pylint",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
